@@ -1,0 +1,20 @@
+{
+    "biblioteca": [
+        {
+            "usuarios" : {
+                "nombre" : "pepito",
+                "apellido" : "perez",
+                "email": "perez@gmail.com",
+                "genero" : "M",
+                "edad": 22
+            },
+            "libros": {
+                "nombre" : "La historia de pepito",
+                "autor" : "pepito el escritor",
+                "paginas" : 321,
+                "descripcion": "La terrible odisea de pepito"
+                
+            }
+        }
+    ]
+}
